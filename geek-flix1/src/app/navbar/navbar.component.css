@@ -1,0 +1,10 @@
+nav {
+    background: linear-gradient(rgb(228, 153, 15), rgb(231, 34, 34));
+    padding: 10px;
+}
+
+h1 {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
